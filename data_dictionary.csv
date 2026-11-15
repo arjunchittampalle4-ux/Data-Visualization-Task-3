@@ -1,0 +1,13 @@
+Column,Description
+Order_ID,Unique order identifier
+Order_Date,Transaction date
+Region,Sales region
+State,State
+Category,Product category
+Sub_Category,Product sub-category
+Sales,Sales amount
+Discount,Discount rate
+Profit,Profit amount
+Month,Year-month derived from Order_Date
+Year,Year derived from Order_Date
+Profit_Margin,Profit divided by Sales

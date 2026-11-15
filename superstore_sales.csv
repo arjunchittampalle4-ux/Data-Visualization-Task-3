@@ -1,0 +1,601 @@
+Order_ID,Order_Date,Region,State,Category,Sub_Category,Sales,Discount,Profit,Month,Year,Profit_Margin
+1,2024-04-16,South,Virginia,Office Supplies,Storage,243.65,0.0,54.8,2024-04,2024,0.2249
+2,2025-10-23,West,California,Technology,Accessories,196.95,0.0,42.05,2025-10,2025,0.2135
+3,2024-09-09,Central,Ohio,Technology,Computers,62.14,0.0,9.17,2024-09,2024,0.1476
+4,2025-07-16,East,Massachusetts,Technology,Computers,203.9,0.2,30.31,2025-07,2025,0.1487
+5,2025-01-22,Central,Texas,Furniture,Tables,198.63,0.0,25.18,2025-01,2025,0.1268
+6,2025-03-03,West,Washington,Technology,Accessories,137.64,0.05,27.83,2025-03,2025,0.2022
+7,2025-04-21,East,New York,Furniture,Tables,279.13,0.0,29.28,2025-04,2025,0.1049
+8,2024-12-03,East,New York,Technology,Phones,328.68,0.05,59.81,2024-12,2024,0.182
+9,2025-10-09,South,Florida,Furniture,Chairs,139.36,0.2,12.43,2025-10,2025,0.0892
+10,2024-02-10,South,Virginia,Technology,Accessories,307.17,0.2,38.9,2024-02,2024,0.1266
+11,2024-04-08,South,Virginia,Office Supplies,Paper,176.72,0.05,12.36,2024-04,2024,0.0699
+12,2024-08-05,East,Massachusetts,Office Supplies,Paper,328.44,0.05,52.17,2024-08,2024,0.1588
+13,2025-07-17,South,Virginia,Office Supplies,Paper,104.72,0.1,17.57,2025-07,2025,0.1678
+14,2024-06-08,South,Georgia,Technology,Phones,100.5,0.1,20.94,2024-06,2024,0.2084
+15,2024-11-26,Central,Illinois,Technology,Computers,301.99,0.0,72.23,2024-11,2024,0.2392
+16,2025-09-19,Central,Texas,Furniture,Chairs,162.58,0.05,14.43,2025-09,2025,0.0888
+17,2025-11-14,Central,Illinois,Office Supplies,Binders,86.66,0.0,18.01,2025-11,2025,0.2078
+18,2025-01-20,East,Massachusetts,Office Supplies,Binders,75.04,0.0,12.99,2025-01,2025,0.1731
+19,2025-02-06,Central,Ohio,Technology,Phones,227.58,0.1,57.82,2025-02,2025,0.2541
+20,2025-02-04,West,Arizona,Technology,Accessories,53.2,0.05,22.01,2025-02,2025,0.4137
+21,2024-07-19,South,Virginia,Technology,Phones,382.1,0.0,84.86,2024-07,2024,0.2221
+22,2025-05-25,West,Arizona,Technology,Accessories,140.2,0.1,30.23,2025-05,2025,0.2156
+23,2025-04-17,East,Pennsylvania,Office Supplies,Storage,108.24,0.1,7.47,2025-04,2025,0.069
+24,2024-01-02,West,Arizona,Furniture,Chairs,279.52,0.3,6.61,2024-01,2024,0.0236
+25,2024-07-26,Central,Ohio,Technology,Accessories,205.02,0.2,35.69,2024-07,2024,0.1741
+26,2024-04-13,Central,Illinois,Technology,Computers,352.27,0.0,79.84,2024-04,2024,0.2266
+27,2025-12-06,East,New York,Technology,Computers,123.03,0.1,28.64,2025-12,2025,0.2328
+28,2024-07-13,East,Massachusetts,Technology,Accessories,105.48,0.1,17.55,2024-07,2024,0.1664
+29,2024-08-17,East,Pennsylvania,Technology,Computers,120.01,0.2,27.68,2024-08,2024,0.2306
+30,2025-03-28,Central,Illinois,Furniture,Chairs,251.93,0.1,28.21,2025-03,2025,0.112
+31,2024-02-15,West,Arizona,Office Supplies,Paper,233.95,0.05,41.8,2024-02,2024,0.1787
+32,2024-09-09,West,California,Office Supplies,Storage,180.72,0.2,12.47,2024-09,2024,0.069
+33,2024-11-18,East,Pennsylvania,Office Supplies,Binders,139.39,0.0,25.56,2024-11,2024,0.1834
+34,2025-01-27,East,Massachusetts,Office Supplies,Paper,93.12,0.05,22.37,2025-01,2025,0.2402
+35,2025-05-20,East,Massachusetts,Office Supplies,Paper,131.81,0.1,14.66,2025-05,2025,0.1112
+36,2025-12-27,South,Florida,Technology,Computers,175.13,0.05,36.66,2025-12,2025,0.2093
+37,2024-02-23,West,California,Technology,Accessories,203.72,0.05,36.92,2024-02,2024,0.1812
+38,2024-12-15,South,Florida,Technology,Phones,284.55,0.1,36.44,2024-12,2024,0.1281
+39,2024-12-11,West,California,Technology,Computers,208.89,0.3,28.06,2024-12,2024,0.1343
+40,2024-04-05,Central,Illinois,Technology,Phones,297.43,0.2,34.53,2024-04,2024,0.1161
+41,2024-09-03,South,Virginia,Office Supplies,Paper,305.15,0.1,38.81,2024-09,2024,0.1272
+42,2025-03-28,Central,Illinois,Technology,Computers,161.85,0.0,9.68,2025-03,2025,0.0598
+43,2025-06-05,East,New York,Furniture,Bookcases,100.75,0.2,3.04,2025-06,2025,0.0302
+44,2024-09-14,Central,Texas,Technology,Accessories,281.59,0.1,53.0,2024-09,2024,0.1882
+45,2025-11-21,South,Virginia,Furniture,Chairs,268.54,0.1,21.47,2025-11,2025,0.08
+46,2024-10-28,West,California,Technology,Accessories,327.05,0.0,68.06,2024-10,2024,0.2081
+47,2025-02-21,East,Massachusetts,Office Supplies,Binders,211.32,0.1,22.3,2025-02,2025,0.1055
+48,2024-10-03,Central,Ohio,Technology,Phones,370.69,0.1,82.0,2024-10,2024,0.2212
+49,2024-04-05,Central,Illinois,Office Supplies,Binders,55.79,0.3,2.44,2024-04,2024,0.0437
+50,2024-09-29,South,Virginia,Office Supplies,Paper,333.08,0.1,35.94,2024-09,2024,0.1079
+51,2024-08-20,Central,Ohio,Technology,Phones,113.39,0.05,23.79,2024-08,2024,0.2098
+52,2024-03-09,East,Massachusetts,Furniture,Chairs,218.32,0.05,27.28,2024-03,2024,0.125
+53,2025-11-23,West,Arizona,Office Supplies,Paper,286.67,0.0,34.88,2025-11,2025,0.1217
+54,2025-08-10,Central,Texas,Furniture,Tables,452.35,0.2,14.02,2025-08,2025,0.031
+55,2025-09-25,Central,Illinois,Technology,Phones,194.81,0.1,39.6,2025-09,2025,0.2033
+56,2025-05-25,Central,Ohio,Office Supplies,Paper,74.87,0.1,21.47,2025-05,2025,0.2868
+57,2024-03-31,Central,Texas,Furniture,Bookcases,105.48,0.05,-3.99,2024-03,2024,-0.0378
+58,2024-12-26,West,California,Furniture,Chairs,147.27,0.1,5.25,2024-12,2024,0.0356
+59,2024-04-26,Central,Ohio,Office Supplies,Binders,77.08,0.0,14.43,2024-04,2024,0.1872
+60,2025-10-20,West,Arizona,Technology,Accessories,315.09,0.1,69.9,2025-10,2025,0.2218
+61,2024-09-15,Central,Illinois,Furniture,Tables,311.39,0.0,30.25,2024-09,2024,0.0971
+62,2025-10-09,West,California,Technology,Computers,313.99,0.1,42.79,2025-10,2025,0.1363
+63,2025-07-11,West,California,Technology,Phones,229.73,0.3,39.9,2025-07,2025,0.1737
+64,2024-08-29,East,Pennsylvania,Technology,Computers,61.9,0.0,24.81,2024-08,2024,0.4008
+65,2024-10-08,West,Washington,Office Supplies,Storage,145.05,0.3,13.08,2024-10,2024,0.0902
+66,2025-02-08,Central,Illinois,Furniture,Chairs,219.63,0.2,6.63,2025-02,2025,0.0302
+67,2024-03-23,Central,Illinois,Office Supplies,Binders,193.37,0.1,17.09,2024-03,2024,0.0884
+68,2024-03-12,West,Washington,Furniture,Bookcases,251.61,0.1,26.56,2024-03,2024,0.1056
+69,2025-02-04,West,Washington,Office Supplies,Paper,178.79,0.0,37.35,2025-02,2025,0.2089
+70,2025-12-04,South,Virginia,Technology,Computers,377.97,0.05,62.69,2025-12,2025,0.1659
+71,2024-06-14,South,Florida,Office Supplies,Paper,391.28,0.3,31.11,2024-06,2024,0.0795
+72,2024-07-02,Central,Texas,Office Supplies,Binders,55.41,0.2,-6.09,2024-07,2024,-0.1099
+73,2024-04-20,South,Florida,Furniture,Bookcases,350.43,0.0,26.23,2024-04,2024,0.0749
+74,2024-04-02,South,Georgia,Office Supplies,Storage,245.42,0.1,40.51,2024-04,2024,0.1651
+75,2025-02-08,West,California,Technology,Computers,138.05,0.1,31.83,2025-02,2025,0.2306
+76,2024-03-13,East,Massachusetts,Technology,Accessories,159.61,0.1,30.51,2024-03,2024,0.1912
+77,2024-01-26,South,Virginia,Furniture,Chairs,493.52,0.0,50.78,2024-01,2024,0.1029
+78,2025-04-18,South,Virginia,Office Supplies,Binders,192.14,0.1,25.84,2025-04,2025,0.1345
+79,2025-09-14,West,California,Technology,Accessories,202.21,0.2,20.97,2025-09,2025,0.1037
+80,2024-02-08,South,Florida,Furniture,Tables,65.14,0.0,0.33,2024-02,2024,0.0051
+81,2024-03-07,Central,Ohio,Furniture,Tables,153.7,0.1,22.49,2024-03,2024,0.1463
+82,2025-07-07,West,Arizona,Furniture,Bookcases,254.25,0.05,28.39,2025-07,2025,0.1117
+83,2024-10-15,Central,Texas,Technology,Phones,480.26,0.0,104.01,2024-10,2024,0.2166
+84,2025-08-29,South,Virginia,Technology,Computers,41.54,0.2,7.62,2025-08,2025,0.1834
+85,2025-08-28,West,Washington,Technology,Computers,303.66,0.1,56.97,2025-08,2025,0.1876
+86,2024-11-21,South,Virginia,Office Supplies,Paper,280.95,0.2,36.03,2024-11,2024,0.1282
+87,2024-05-18,Central,Texas,Furniture,Tables,115.43,0.05,-4.31,2024-05,2024,-0.0373
+88,2024-01-13,Central,Texas,Technology,Computers,356.36,0.0,77.83,2024-01,2024,0.2184
+89,2025-08-03,South,Florida,Office Supplies,Storage,100.79,0.3,10.53,2025-08,2025,0.1045
+90,2025-05-27,East,New York,Technology,Accessories,131.8,0.1,23.42,2025-05,2025,0.1777
+91,2024-10-17,Central,Illinois,Technology,Computers,200.69,0.2,32.42,2024-10,2024,0.1615
+92,2024-10-22,Central,Illinois,Furniture,Tables,515.13,0.2,17.46,2024-10,2024,0.0339
+93,2025-10-26,South,Virginia,Furniture,Chairs,288.7,0.05,17.84,2025-10,2025,0.0618
+94,2025-08-01,South,Florida,Technology,Computers,194.23,0.05,42.04,2025-08,2025,0.2164
+95,2025-02-23,Central,Illinois,Furniture,Bookcases,147.88,0.2,12.2,2025-02,2025,0.0825
+96,2025-06-05,East,Massachusetts,Technology,Computers,276.65,0.2,42.19,2025-06,2025,0.1525
+97,2024-06-05,West,Arizona,Furniture,Bookcases,105.97,0.1,18.2,2024-06,2024,0.1717
+98,2024-10-09,South,Virginia,Furniture,Tables,142.77,0.0,15.64,2024-10,2024,0.1095
+99,2025-01-30,South,Virginia,Technology,Accessories,293.01,0.0,62.31,2025-01,2025,0.2127
+100,2024-05-06,West,California,Technology,Phones,145.71,0.1,16.22,2024-05,2024,0.1113
+101,2025-02-10,East,Massachusetts,Office Supplies,Binders,475.65,0.0,82.4,2025-02,2025,0.1732
+102,2025-07-20,Central,Texas,Technology,Computers,146.66,0.1,38.31,2025-07,2025,0.2612
+103,2025-07-28,West,Arizona,Office Supplies,Binders,124.89,0.2,13.21,2025-07,2025,0.1058
+104,2024-06-27,East,Massachusetts,Office Supplies,Storage,288.94,0.1,50.21,2024-06,2024,0.1738
+105,2025-04-13,East,Pennsylvania,Technology,Computers,124.28,0.3,32.51,2025-04,2025,0.2616
+106,2024-11-22,West,Arizona,Furniture,Chairs,66.53,0.0,0.39,2024-11,2024,0.0059
+107,2024-10-31,East,Pennsylvania,Technology,Phones,270.21,0.1,44.29,2024-10,2024,0.1639
+108,2025-05-16,South,Florida,Furniture,Tables,199.88,0.05,7.07,2025-05,2025,0.0354
+109,2025-10-04,West,Arizona,Office Supplies,Storage,210.87,0.05,25.38,2025-10,2025,0.1204
+110,2025-01-25,South,Virginia,Technology,Computers,448.79,0.0,93.1,2025-01,2025,0.2074
+111,2024-08-26,South,Virginia,Technology,Computers,121.95,0.2,32.03,2024-08,2024,0.2626
+112,2025-05-05,West,Arizona,Office Supplies,Binders,239.48,0.3,15.75,2025-05,2025,0.0658
+113,2025-11-03,West,Washington,Technology,Computers,98.57,0.0,24.29,2025-11,2025,0.2464
+114,2025-06-06,East,New York,Office Supplies,Paper,86.56,0.05,1.61,2025-06,2025,0.0186
+115,2024-08-13,Central,Ohio,Furniture,Tables,260.94,0.0,27.43,2024-08,2024,0.1051
+116,2024-04-24,East,New York,Furniture,Chairs,104.01,0.2,-3.23,2024-04,2024,-0.0311
+117,2024-01-04,East,Pennsylvania,Furniture,Tables,423.56,0.3,6.71,2024-01,2024,0.0158
+118,2024-12-21,East,Massachusetts,Furniture,Tables,341.53,0.0,33.6,2024-12,2024,0.0984
+119,2024-01-27,Central,Ohio,Technology,Phones,216.95,0.1,48.0,2024-01,2024,0.2212
+120,2025-04-20,East,New York,Office Supplies,Binders,147.58,0.3,22.71,2025-04,2025,0.1539
+121,2024-01-29,South,Virginia,Technology,Accessories,71.67,0.2,4.36,2024-01,2024,0.0608
+122,2024-02-24,West,Arizona,Furniture,Tables,246.15,0.0,26.09,2024-02,2024,0.106
+123,2025-05-21,West,California,Technology,Accessories,63.74,0.0,21.92,2025-05,2025,0.3439
+124,2024-03-01,West,California,Office Supplies,Paper,129.94,0.2,28.79,2024-03,2024,0.2216
+125,2024-04-11,West,California,Office Supplies,Binders,60.47,0.3,13.69,2024-04,2024,0.2264
+126,2025-05-11,Central,Illinois,Office Supplies,Storage,207.89,0.2,12.19,2025-05,2025,0.0586
+127,2025-12-10,Central,Texas,Office Supplies,Binders,375.58,0.1,62.69,2025-12,2025,0.1669
+128,2024-03-26,West,Arizona,Office Supplies,Storage,97.04,0.3,15.7,2024-03,2024,0.1618
+129,2025-01-06,Central,Ohio,Furniture,Tables,143.47,0.0,21.44,2025-01,2025,0.1494
+130,2024-04-07,West,Arizona,Technology,Phones,196.93,0.05,47.98,2024-04,2024,0.2436
+131,2025-01-31,South,Virginia,Office Supplies,Paper,297.72,0.0,55.85,2025-01,2025,0.1876
+132,2024-09-07,South,Virginia,Office Supplies,Binders,197.21,0.2,30.22,2024-09,2024,0.1532
+133,2025-04-21,East,New York,Furniture,Tables,185.77,0.05,10.88,2025-04,2025,0.0586
+134,2024-12-24,East,Pennsylvania,Technology,Accessories,445.95,0.1,83.85,2024-12,2024,0.188
+135,2024-10-19,East,Massachusetts,Technology,Computers,184.68,0.1,36.04,2024-10,2024,0.1951
+136,2025-01-14,East,New York,Office Supplies,Paper,315.21,0.1,43.99,2025-01,2025,0.1396
+137,2025-08-06,East,Pennsylvania,Technology,Accessories,206.61,0.1,42.16,2025-08,2025,0.2041
+138,2025-05-20,South,Florida,Technology,Computers,129.1,0.3,24.36,2025-05,2025,0.1887
+139,2025-07-26,Central,Ohio,Office Supplies,Binders,200.13,0.3,1.34,2025-07,2025,0.0067
+140,2024-04-29,West,Arizona,Furniture,Chairs,42.54,0.1,-4.26,2024-04,2024,-0.1001
+141,2025-06-04,Central,Ohio,Office Supplies,Binders,247.88,0.05,38.67,2025-06,2025,0.156
+142,2024-06-24,East,New York,Technology,Phones,113.52,0.1,20.93,2024-06,2024,0.1844
+143,2024-08-11,Central,Ohio,Office Supplies,Paper,303.6,0.1,44.31,2024-08,2024,0.1459
+144,2024-08-03,Central,Illinois,Technology,Computers,258.89,0.2,47.7,2024-08,2024,0.1842
+145,2025-11-23,Central,Ohio,Office Supplies,Paper,318.93,0.0,69.66,2025-11,2025,0.2184
+146,2024-01-31,Central,Ohio,Office Supplies,Storage,171.19,0.2,20.0,2024-01,2024,0.1168
+147,2025-08-11,East,New York,Office Supplies,Binders,165.46,0.1,24.02,2025-08,2025,0.1452
+148,2025-11-30,Central,Texas,Furniture,Bookcases,150.06,0.05,7.02,2025-11,2025,0.0468
+149,2024-08-09,South,Virginia,Furniture,Bookcases,283.64,0.2,13.92,2024-08,2024,0.0491
+150,2025-02-04,West,Washington,Office Supplies,Binders,58.45,0.0,18.24,2025-02,2025,0.3121
+151,2025-12-16,East,Massachusetts,Office Supplies,Paper,135.52,0.0,27.41,2025-12,2025,0.2023
+152,2025-04-03,Central,Illinois,Technology,Accessories,135.83,0.3,30.67,2025-04,2025,0.2258
+153,2024-09-27,South,Georgia,Furniture,Bookcases,266.7,0.0,34.57,2024-09,2024,0.1296
+154,2025-12-07,West,Washington,Office Supplies,Storage,266.91,0.1,37.91,2025-12,2025,0.142
+155,2025-05-21,South,Florida,Technology,Accessories,302.17,0.0,64.82,2025-05,2025,0.2145
+156,2024-09-27,Central,Illinois,Office Supplies,Binders,615.92,0.0,97.61,2024-09,2024,0.1585
+157,2025-11-16,Central,Texas,Technology,Accessories,151.93,0.05,30.95,2025-11,2025,0.2037
+158,2024-06-01,South,Virginia,Technology,Accessories,76.75,0.0,21.73,2024-06,2024,0.2831
+159,2025-01-20,East,Pennsylvania,Furniture,Chairs,129.32,0.0,20.9,2025-01,2025,0.1616
+160,2025-05-09,East,Pennsylvania,Furniture,Tables,68.71,0.2,8.14,2025-05,2025,0.1185
+161,2025-11-21,Central,Texas,Technology,Computers,161.86,0.0,32.38,2025-11,2025,0.2
+162,2025-12-14,East,New York,Technology,Phones,195.05,0.0,36.67,2025-12,2025,0.188
+163,2024-07-12,West,Arizona,Furniture,Bookcases,305.37,0.1,24.27,2024-07,2024,0.0795
+164,2024-01-09,Central,Texas,Office Supplies,Binders,460.57,0.2,53.53,2024-01,2024,0.1162
+165,2025-01-17,West,California,Technology,Accessories,369.14,0.1,69.87,2025-01,2025,0.1893
+166,2024-01-12,West,Arizona,Office Supplies,Storage,127.98,0.0,19.17,2024-01,2024,0.1498
+167,2025-09-22,East,Massachusetts,Technology,Phones,135.18,0.0,29.08,2025-09,2025,0.2151
+168,2024-02-28,East,Massachusetts,Technology,Phones,94.07,0.0,25.21,2024-02,2024,0.268
+169,2025-12-25,South,Georgia,Technology,Phones,307.41,0.05,69.24,2025-12,2025,0.2252
+170,2025-11-19,West,Washington,Furniture,Tables,635.09,0.05,55.69,2025-11,2025,0.0877
+171,2024-10-21,South,Florida,Office Supplies,Binders,267.2,0.0,35.48,2024-10,2024,0.1328
+172,2025-06-03,East,Pennsylvania,Furniture,Bookcases,430.41,0.05,23.19,2025-06,2025,0.0539
+173,2025-07-06,South,Florida,Furniture,Tables,252.67,0.1,13.46,2025-07,2025,0.0533
+174,2024-05-24,West,Arizona,Furniture,Tables,231.17,0.1,14.33,2024-05,2024,0.062
+175,2024-10-29,Central,Illinois,Office Supplies,Paper,238.49,0.05,36.36,2024-10,2024,0.1525
+176,2024-09-13,East,Massachusetts,Office Supplies,Paper,86.04,0.05,25.22,2024-09,2024,0.2931
+177,2025-05-11,Central,Ohio,Furniture,Chairs,67.66,0.05,6.97,2025-05,2025,0.103
+178,2025-10-03,Central,Ohio,Technology,Computers,331.59,0.0,74.14,2025-10,2025,0.2236
+179,2024-06-09,East,New York,Technology,Accessories,142.41,0.0,32.44,2024-06,2024,0.2278
+180,2025-03-02,South,Georgia,Furniture,Bookcases,240.94,0.1,24.53,2025-03,2025,0.1018
+181,2024-12-06,West,Washington,Office Supplies,Binders,99.73,0.1,23.05,2024-12,2024,0.2311
+182,2024-04-28,South,Virginia,Office Supplies,Storage,171.51,0.1,44.1,2024-04,2024,0.2571
+183,2024-12-10,West,California,Office Supplies,Storage,182.29,0.1,31.54,2024-12,2024,0.173
+184,2024-08-07,West,California,Office Supplies,Binders,93.11,0.1,19.92,2024-08,2024,0.2139
+185,2025-08-11,West,Washington,Office Supplies,Paper,149.4,0.0,36.68,2025-08,2025,0.2455
+186,2025-01-31,South,Georgia,Office Supplies,Binders,272.96,0.05,43.16,2025-01,2025,0.1581
+187,2024-03-05,South,Florida,Technology,Accessories,202.01,0.05,33.83,2024-03,2024,0.1675
+188,2024-10-17,Central,Texas,Technology,Phones,410.87,0.0,103.53,2024-10,2024,0.252
+189,2024-03-25,East,Pennsylvania,Furniture,Bookcases,319.13,0.1,17.11,2024-03,2024,0.0536
+190,2024-10-30,Central,Texas,Furniture,Tables,186.23,0.1,23.18,2024-10,2024,0.1245
+191,2025-03-02,East,Massachusetts,Office Supplies,Storage,255.34,0.0,43.94,2025-03,2025,0.1721
+192,2024-05-20,South,Georgia,Technology,Phones,233.37,0.0,37.8,2024-05,2024,0.162
+193,2025-10-09,South,Georgia,Office Supplies,Storage,178.1,0.1,17.91,2025-10,2025,0.1006
+194,2024-12-16,Central,Illinois,Furniture,Bookcases,308.59,0.2,4.61,2024-12,2024,0.0149
+195,2025-01-19,East,New York,Technology,Computers,109.6,0.1,22.26,2025-01,2025,0.2031
+196,2025-01-12,East,Massachusetts,Technology,Computers,553.74,0.3,66.21,2025-01,2025,0.1196
+197,2025-09-03,Central,Illinois,Technology,Accessories,403.03,0.1,76.48,2025-09,2025,0.1898
+198,2025-07-14,South,Florida,Furniture,Bookcases,117.87,0.2,2.05,2025-07,2025,0.0174
+199,2024-06-08,South,Florida,Technology,Accessories,174.92,0.05,31.04,2024-06,2024,0.1775
+200,2025-08-19,East,Massachusetts,Technology,Accessories,206.28,0.05,55.44,2025-08,2025,0.2688
+201,2025-06-14,South,Florida,Technology,Computers,148.13,0.05,31.35,2025-06,2025,0.2116
+202,2025-10-09,Central,Texas,Furniture,Chairs,216.43,0.05,9.68,2025-10,2025,0.0447
+203,2024-06-08,West,California,Office Supplies,Storage,516.11,0.2,60.47,2024-06,2024,0.1172
+204,2024-05-09,East,Pennsylvania,Technology,Computers,273.06,0.1,66.09,2024-05,2024,0.242
+205,2025-04-21,West,California,Technology,Phones,103.01,0.0,27.7,2025-04,2025,0.2689
+206,2025-02-03,South,Virginia,Office Supplies,Paper,331.89,0.0,64.61,2025-02,2025,0.1947
+207,2025-09-24,West,California,Technology,Phones,128.2,0.2,21.42,2025-09,2025,0.1671
+208,2025-05-14,Central,Ohio,Office Supplies,Binders,97.72,0.0,10.47,2025-05,2025,0.1071
+209,2024-06-28,Central,Texas,Furniture,Bookcases,209.67,0.0,20.2,2024-06,2024,0.0963
+210,2024-08-31,South,Georgia,Furniture,Chairs,197.16,0.2,5.12,2024-08,2024,0.026
+211,2025-06-09,East,Pennsylvania,Office Supplies,Storage,170.42,0.1,18.66,2025-06,2025,0.1095
+212,2025-06-20,East,New York,Office Supplies,Binders,122.42,0.1,38.78,2025-06,2025,0.3168
+213,2025-01-15,East,Pennsylvania,Office Supplies,Binders,220.61,0.1,31.06,2025-01,2025,0.1408
+214,2024-03-19,West,California,Furniture,Chairs,194.42,0.05,20.28,2024-03,2024,0.1043
+215,2025-03-22,South,Virginia,Furniture,Tables,89.03,0.1,10.59,2025-03,2025,0.1189
+216,2024-12-10,South,Virginia,Technology,Accessories,204.6,0.0,42.32,2024-12,2024,0.2068
+217,2025-05-08,Central,Ohio,Technology,Computers,222.46,0.1,36.13,2025-05,2025,0.1624
+218,2025-01-14,West,Arizona,Office Supplies,Storage,309.92,0.05,38.48,2025-01,2025,0.1242
+219,2025-04-27,Central,Texas,Office Supplies,Binders,91.44,0.2,-4.36,2025-04,2025,-0.0477
+220,2025-07-27,Central,Texas,Technology,Computers,150.0,0.2,22.38,2025-07,2025,0.1492
+221,2024-01-13,West,Arizona,Furniture,Chairs,186.71,0.1,16.77,2024-01,2024,0.0898
+222,2025-09-20,Central,Ohio,Office Supplies,Storage,90.03,0.2,9.58,2025-09,2025,0.1064
+223,2025-02-25,Central,Illinois,Furniture,Chairs,246.31,0.0,23.7,2025-02,2025,0.0962
+224,2024-04-06,Central,Ohio,Office Supplies,Paper,179.12,0.1,33.34,2024-04,2024,0.1861
+225,2024-06-21,East,New York,Furniture,Bookcases,241.88,0.1,10.3,2024-06,2024,0.0426
+226,2025-01-19,West,Arizona,Technology,Accessories,116.34,0.05,33.95,2025-01,2025,0.2918
+227,2025-05-05,South,Georgia,Office Supplies,Storage,356.75,0.0,46.59,2025-05,2025,0.1306
+228,2024-08-10,East,Massachusetts,Technology,Phones,125.43,0.1,28.88,2024-08,2024,0.2302
+229,2025-09-08,Central,Illinois,Technology,Computers,241.37,0.3,45.08,2025-09,2025,0.1868
+230,2025-01-08,West,Washington,Technology,Computers,292.44,0.1,53.88,2025-01,2025,0.1842
+231,2025-02-05,South,Florida,Technology,Phones,132.56,0.05,16.59,2025-02,2025,0.1252
+232,2025-12-25,East,Pennsylvania,Office Supplies,Binders,183.51,0.3,30.11,2025-12,2025,0.1641
+233,2025-05-11,West,Washington,Technology,Accessories,222.45,0.0,35.67,2025-05,2025,0.1604
+234,2025-10-08,West,California,Office Supplies,Binders,337.23,0.1,42.5,2025-10,2025,0.126
+235,2025-04-07,East,New York,Technology,Phones,89.85,0.05,17.88,2025-04,2025,0.199
+236,2025-12-03,Central,Texas,Office Supplies,Storage,206.18,0.05,26.65,2025-12,2025,0.1293
+237,2024-09-17,East,Pennsylvania,Technology,Phones,153.29,0.2,27.88,2024-09,2024,0.1819
+238,2024-10-28,South,Georgia,Technology,Phones,89.86,0.2,17.04,2024-10,2024,0.1896
+239,2024-01-12,East,Massachusetts,Office Supplies,Binders,117.66,0.05,24.31,2024-01,2024,0.2066
+240,2024-03-10,West,Arizona,Technology,Accessories,115.26,0.2,0.54,2024-03,2024,0.0047
+241,2025-02-08,East,New York,Furniture,Chairs,147.8,0.2,-5.01,2025-02,2025,-0.0339
+242,2024-12-01,East,Pennsylvania,Office Supplies,Paper,278.54,0.1,32.44,2024-12,2024,0.1165
+243,2024-11-14,East,Massachusetts,Furniture,Bookcases,335.81,0.2,4.88,2024-11,2024,0.0145
+244,2024-07-01,West,Arizona,Furniture,Tables,110.87,0.0,17.35,2024-07,2024,0.1565
+245,2024-06-09,South,Georgia,Office Supplies,Binders,470.57,0.0,76.09,2024-06,2024,0.1617
+246,2024-05-16,South,Georgia,Office Supplies,Storage,228.95,0.2,25.57,2024-05,2024,0.1117
+247,2025-07-16,East,New York,Furniture,Tables,322.72,0.0,30.71,2025-07,2025,0.0952
+248,2024-12-21,Central,Texas,Furniture,Chairs,185.43,0.2,19.74,2024-12,2024,0.1065
+249,2025-06-26,Central,Texas,Technology,Phones,182.69,0.05,43.5,2025-06,2025,0.2381
+250,2024-06-11,East,Massachusetts,Technology,Accessories,300.46,0.05,55.3,2024-06,2024,0.1841
+251,2025-07-09,East,Massachusetts,Office Supplies,Binders,207.46,0.1,28.73,2025-07,2025,0.1385
+252,2025-06-02,Central,Ohio,Technology,Computers,172.81,0.1,30.07,2025-06,2025,0.174
+253,2025-10-27,West,Washington,Office Supplies,Binders,69.75,0.3,1.0,2025-10,2025,0.0143
+254,2024-10-31,Central,Illinois,Office Supplies,Binders,242.71,0.05,39.16,2024-10,2024,0.1613
+255,2025-05-04,Central,Illinois,Technology,Accessories,217.88,0.3,20.33,2025-05,2025,0.0933
+256,2025-11-11,East,Pennsylvania,Furniture,Bookcases,215.0,0.0,32.93,2025-11,2025,0.1532
+257,2025-05-28,Central,Ohio,Furniture,Chairs,94.29,0.2,8.03,2025-05,2025,0.0852
+258,2024-10-20,Central,Ohio,Office Supplies,Storage,169.64,0.2,29.66,2024-10,2024,0.1748
+259,2024-03-08,Central,Texas,Technology,Accessories,201.68,0.2,43.25,2024-03,2024,0.2144
+260,2025-01-15,West,California,Office Supplies,Storage,224.26,0.0,40.11,2025-01,2025,0.1789
+261,2025-07-07,West,Washington,Furniture,Chairs,104.18,0.2,3.08,2025-07,2025,0.0296
+262,2025-05-18,South,Florida,Office Supplies,Storage,361.21,0.05,53.04,2025-05,2025,0.1468
+263,2024-04-13,South,Virginia,Technology,Computers,29.44,0.0,14.98,2024-04,2024,0.5088
+264,2024-02-09,Central,Ohio,Office Supplies,Binders,622.78,0.05,102.66,2024-02,2024,0.1648
+265,2024-12-31,Central,Ohio,Furniture,Tables,190.92,0.05,27.05,2024-12,2024,0.1417
+266,2024-06-10,Central,Illinois,Office Supplies,Paper,90.28,0.1,11.05,2024-06,2024,0.1224
+267,2025-10-27,West,Washington,Office Supplies,Binders,209.8,0.2,20.25,2025-10,2025,0.0965
+268,2025-01-29,East,Pennsylvania,Technology,Phones,219.39,0.05,50.28,2025-01,2025,0.2292
+269,2024-10-03,South,Georgia,Office Supplies,Binders,132.26,0.2,27.68,2024-10,2024,0.2093
+270,2024-06-24,East,Massachusetts,Furniture,Bookcases,416.41,0.2,16.6,2024-06,2024,0.0399
+271,2024-09-28,South,Georgia,Technology,Phones,156.76,0.1,23.6,2024-09,2024,0.1505
+272,2025-10-01,Central,Ohio,Office Supplies,Paper,379.23,0.05,69.73,2025-10,2025,0.1839
+273,2024-10-28,Central,Illinois,Technology,Phones,227.3,0.2,35.86,2024-10,2024,0.1578
+274,2025-10-07,South,Georgia,Technology,Phones,269.97,0.05,69.87,2025-10,2025,0.2588
+275,2025-06-30,East,Pennsylvania,Office Supplies,Binders,367.47,0.0,63.13,2025-06,2025,0.1718
+276,2024-03-23,East,New York,Office Supplies,Binders,294.15,0.1,46.61,2024-03,2024,0.1585
+277,2025-05-22,South,Florida,Furniture,Chairs,118.29,0.0,28.56,2025-05,2025,0.2414
+278,2025-01-10,East,Pennsylvania,Technology,Phones,292.2,0.0,59.86,2025-01,2025,0.2049
+279,2024-03-08,East,New York,Furniture,Bookcases,89.73,0.1,-4.35,2024-03,2024,-0.0485
+280,2024-09-24,East,Massachusetts,Office Supplies,Binders,195.88,0.2,30.84,2024-09,2024,0.1574
+281,2024-07-19,West,California,Technology,Phones,218.03,0.2,37.84,2024-07,2024,0.1736
+282,2025-02-27,West,Washington,Furniture,Bookcases,127.76,0.1,-6.34,2025-02,2025,-0.0496
+283,2025-07-03,West,Washington,Furniture,Chairs,427.18,0.1,33.7,2025-07,2025,0.0789
+284,2025-05-06,West,Arizona,Furniture,Tables,201.74,0.1,17.52,2025-05,2025,0.0868
+285,2025-12-22,East,Pennsylvania,Technology,Phones,145.73,0.0,14.4,2025-12,2025,0.0988
+286,2025-02-27,Central,Illinois,Furniture,Chairs,34.91,0.1,-9.33,2025-02,2025,-0.2673
+287,2024-07-08,East,New York,Office Supplies,Paper,221.92,0.1,34.49,2024-07,2024,0.1554
+288,2024-12-28,Central,Ohio,Technology,Computers,133.71,0.1,31.57,2024-12,2024,0.2361
+289,2025-01-31,South,Florida,Furniture,Bookcases,159.01,0.3,0.11,2025-01,2025,0.0007
+290,2024-11-27,Central,Illinois,Furniture,Bookcases,227.45,0.1,20.94,2024-11,2024,0.0921
+291,2025-03-28,Central,Texas,Office Supplies,Binders,204.17,0.0,31.83,2025-03,2025,0.1559
+292,2025-04-29,Central,Texas,Furniture,Tables,166.87,0.0,8.79,2025-04,2025,0.0527
+293,2024-04-14,South,Virginia,Furniture,Bookcases,289.16,0.1,21.24,2024-04,2024,0.0735
+294,2025-06-23,East,Massachusetts,Technology,Accessories,240.83,0.1,35.95,2025-06,2025,0.1493
+295,2024-03-21,West,Arizona,Office Supplies,Binders,224.2,0.0,55.56,2024-03,2024,0.2478
+296,2024-02-18,East,New York,Office Supplies,Binders,170.45,0.0,18.8,2024-02,2024,0.1103
+297,2025-03-04,East,Pennsylvania,Office Supplies,Storage,106.21,0.05,8.5,2025-03,2025,0.08
+298,2024-02-10,West,California,Office Supplies,Storage,58.06,0.05,3.89,2024-02,2024,0.067
+299,2025-11-09,East,New York,Office Supplies,Paper,85.64,0.0,15.77,2025-11,2025,0.1841
+300,2025-10-30,Central,Ohio,Office Supplies,Storage,39.43,0.05,9.08,2025-10,2025,0.2303
+301,2025-07-29,East,New York,Furniture,Chairs,66.55,0.3,9.85,2025-07,2025,0.148
+302,2025-03-09,South,Georgia,Office Supplies,Paper,142.75,0.3,10.59,2025-03,2025,0.0742
+303,2025-03-23,South,Florida,Technology,Accessories,60.28,0.0,1.65,2025-03,2025,0.0274
+304,2024-05-04,East,Pennsylvania,Technology,Computers,77.95,0.05,4.16,2024-05,2024,0.0534
+305,2024-03-17,West,Washington,Furniture,Chairs,97.42,0.3,2.15,2024-03,2024,0.0221
+306,2024-10-31,West,Arizona,Office Supplies,Paper,85.57,0.2,10.4,2024-10,2024,0.1215
+307,2025-07-16,East,Massachusetts,Office Supplies,Paper,191.59,0.0,23.91,2025-07,2025,0.1248
+308,2025-08-26,South,Virginia,Furniture,Chairs,225.1,0.2,3.89,2025-08,2025,0.0173
+309,2025-10-25,West,California,Technology,Computers,87.84,0.0,23.3,2025-10,2025,0.2653
+310,2024-03-04,Central,Texas,Furniture,Bookcases,431.83,0.1,40.56,2024-03,2024,0.0939
+311,2025-04-20,Central,Texas,Office Supplies,Storage,206.03,0.0,33.93,2025-04,2025,0.1647
+312,2024-10-30,Central,Texas,Office Supplies,Binders,212.43,0.05,31.75,2024-10,2024,0.1495
+313,2025-02-02,South,Florida,Technology,Accessories,279.64,0.2,43.45,2025-02,2025,0.1554
+314,2025-11-17,East,New York,Furniture,Bookcases,236.18,0.0,35.55,2025-11,2025,0.1505
+315,2024-12-02,West,Washington,Office Supplies,Paper,259.28,0.3,-4.08,2024-12,2024,-0.0157
+316,2025-11-13,West,Washington,Office Supplies,Binders,196.85,0.1,37.18,2025-11,2025,0.1889
+317,2024-02-26,Central,Illinois,Technology,Computers,175.53,0.0,35.76,2024-02,2024,0.2037
+318,2024-05-06,West,Washington,Office Supplies,Paper,228.1,0.05,42.43,2024-05,2024,0.186
+319,2024-12-23,East,Pennsylvania,Technology,Computers,243.2,0.1,30.15,2024-12,2024,0.124
+320,2024-12-23,Central,Texas,Office Supplies,Storage,143.66,0.2,14.05,2024-12,2024,0.0978
+321,2024-01-13,West,Arizona,Technology,Computers,95.72,0.05,24.47,2024-01,2024,0.2556
+322,2024-01-27,East,Pennsylvania,Technology,Accessories,194.73,0.1,33.29,2024-01,2024,0.171
+323,2024-02-22,Central,Texas,Technology,Accessories,397.89,0.2,55.85,2024-02,2024,0.1404
+324,2025-07-17,East,New York,Furniture,Tables,237.51,0.0,41.5,2025-07,2025,0.1747
+325,2025-12-03,West,Washington,Technology,Computers,124.5,0.2,31.13,2025-12,2025,0.25
+326,2025-08-13,South,Georgia,Technology,Phones,274.7,0.2,48.65,2025-08,2025,0.1771
+327,2024-06-05,West,Washington,Technology,Phones,208.71,0.1,30.19,2024-06,2024,0.1447
+328,2024-06-25,South,Virginia,Office Supplies,Storage,260.58,0.0,45.55,2024-06,2024,0.1748
+329,2025-12-29,East,Massachusetts,Furniture,Bookcases,249.89,0.3,-7.78,2025-12,2025,-0.0311
+330,2025-08-28,Central,Illinois,Office Supplies,Paper,169.4,0.3,-1.22,2025-08,2025,-0.0072
+331,2025-06-23,Central,Ohio,Furniture,Bookcases,180.7,0.1,20.64,2025-06,2025,0.1142
+332,2024-01-13,West,California,Technology,Accessories,355.27,0.0,75.6,2024-01,2024,0.2128
+333,2024-04-09,East,Massachusetts,Furniture,Tables,313.17,0.0,44.14,2024-04,2024,0.1409
+334,2024-05-28,West,Arizona,Office Supplies,Binders,154.38,0.0,43.51,2024-05,2024,0.2818
+335,2024-04-27,South,Florida,Office Supplies,Paper,213.9,0.1,42.85,2024-04,2024,0.2003
+336,2025-02-01,Central,Texas,Office Supplies,Binders,166.2,0.1,2.99,2025-02,2025,0.018
+337,2025-02-12,West,Arizona,Technology,Accessories,190.73,0.05,43.0,2025-02,2025,0.2254
+338,2025-05-16,Central,Illinois,Furniture,Tables,164.31,0.0,17.97,2025-05,2025,0.1094
+339,2025-06-02,Central,Illinois,Office Supplies,Binders,87.27,0.05,2.44,2025-06,2025,0.028
+340,2025-04-01,South,Florida,Office Supplies,Storage,359.75,0.05,59.9,2025-04,2025,0.1665
+341,2025-05-03,East,Pennsylvania,Technology,Accessories,204.76,0.0,50.13,2025-05,2025,0.2448
+342,2025-09-22,West,Arizona,Office Supplies,Paper,251.82,0.05,41.33,2025-09,2025,0.1641
+343,2025-03-16,East,New York,Technology,Computers,363.07,0.0,84.34,2025-03,2025,0.2323
+344,2025-02-15,West,Washington,Furniture,Bookcases,336.92,0.05,31.94,2025-02,2025,0.0948
+345,2025-05-03,West,California,Furniture,Bookcases,335.59,0.1,30.72,2025-05,2025,0.0915
+346,2025-02-25,South,Florida,Technology,Phones,67.56,0.1,13.98,2025-02,2025,0.2069
+347,2025-03-21,East,Pennsylvania,Technology,Computers,539.67,0.0,103.57,2025-03,2025,0.1919
+348,2024-08-22,East,Massachusetts,Furniture,Chairs,113.68,0.1,10.61,2024-08,2024,0.0933
+349,2024-09-28,West,Washington,Office Supplies,Paper,185.23,0.3,32.12,2024-09,2024,0.1734
+350,2025-08-23,Central,Texas,Technology,Phones,114.87,0.05,33.8,2025-08,2025,0.2942
+351,2024-12-27,East,Massachusetts,Office Supplies,Paper,459.05,0.1,65.04,2024-12,2024,0.1417
+352,2024-04-02,Central,Texas,Technology,Computers,157.18,0.05,31.82,2024-04,2024,0.2024
+353,2024-11-17,South,Florida,Furniture,Tables,381.28,0.0,38.66,2024-11,2024,0.1014
+354,2024-01-10,South,Florida,Office Supplies,Paper,887.18,0.1,116.93,2024-01,2024,0.1318
+355,2024-12-24,East,New York,Office Supplies,Paper,56.11,0.05,17.18,2024-12,2024,0.3062
+356,2024-04-23,South,Georgia,Furniture,Chairs,245.36,0.3,4.03,2024-04,2024,0.0164
+357,2025-08-02,East,Pennsylvania,Office Supplies,Paper,70.86,0.1,26.14,2025-08,2025,0.3689
+358,2024-10-29,South,Georgia,Technology,Accessories,387.01,0.2,53.77,2024-10,2024,0.1389
+359,2025-01-02,West,Washington,Technology,Phones,300.54,0.0,62.75,2025-01,2025,0.2088
+360,2025-12-07,South,Florida,Office Supplies,Paper,127.85,0.1,28.25,2025-12,2025,0.221
+361,2025-08-03,South,Georgia,Technology,Accessories,310.45,0.1,39.77,2025-08,2025,0.1281
+362,2025-11-10,East,Massachusetts,Technology,Computers,121.7,0.0,18.59,2025-11,2025,0.1528
+363,2025-05-25,East,Pennsylvania,Office Supplies,Binders,96.87,0.1,28.55,2025-05,2025,0.2947
+364,2024-07-24,East,Pennsylvania,Office Supplies,Storage,152.99,0.05,18.27,2024-07,2024,0.1194
+365,2024-09-28,Central,Ohio,Furniture,Chairs,197.55,0.0,13.29,2024-09,2024,0.0673
+366,2025-04-24,East,Pennsylvania,Furniture,Bookcases,68.49,0.2,8.4,2025-04,2025,0.1226
+367,2025-07-16,Central,Ohio,Furniture,Chairs,261.04,0.1,15.5,2025-07,2025,0.0594
+368,2025-02-10,South,Georgia,Office Supplies,Storage,167.48,0.0,29.6,2025-02,2025,0.1767
+369,2025-05-29,East,New York,Office Supplies,Paper,223.57,0.05,32.74,2025-05,2025,0.1464
+370,2024-04-09,Central,Ohio,Furniture,Bookcases,273.14,0.0,34.11,2024-04,2024,0.1249
+371,2024-09-26,West,Arizona,Office Supplies,Paper,194.12,0.1,51.53,2024-09,2024,0.2655
+372,2024-12-01,Central,Ohio,Furniture,Bookcases,164.28,0.1,12.83,2024-12,2024,0.0781
+373,2025-03-27,South,Virginia,Office Supplies,Storage,73.45,0.1,18.77,2025-03,2025,0.2555
+374,2025-09-17,East,Massachusetts,Furniture,Bookcases,195.84,0.05,11.04,2025-09,2025,0.0564
+375,2025-05-31,West,Washington,Furniture,Chairs,129.75,0.2,16.16,2025-05,2025,0.1245
+376,2025-12-26,East,New York,Furniture,Bookcases,146.38,0.3,-2.04,2025-12,2025,-0.0139
+377,2024-08-02,West,California,Office Supplies,Storage,152.88,0.0,16.91,2024-08,2024,0.1106
+378,2024-12-26,West,Washington,Technology,Computers,82.11,0.0,18.68,2024-12,2024,0.2275
+379,2025-04-12,Central,Texas,Office Supplies,Binders,56.94,0.05,1.82,2025-04,2025,0.032
+380,2025-09-27,East,Massachusetts,Furniture,Tables,472.58,0.1,34.63,2025-09,2025,0.0733
+381,2025-07-06,Central,Texas,Office Supplies,Storage,210.13,0.1,23.97,2025-07,2025,0.1141
+382,2024-05-13,Central,Illinois,Technology,Accessories,289.51,0.1,44.37,2024-05,2024,0.1533
+383,2025-02-16,South,Florida,Technology,Computers,532.52,0.3,53.42,2025-02,2025,0.1003
+384,2025-02-17,South,Florida,Office Supplies,Binders,111.81,0.1,29.78,2025-02,2025,0.2663
+385,2025-10-11,Central,Texas,Furniture,Chairs,337.16,0.1,19.24,2025-10,2025,0.0571
+386,2024-02-23,Central,Ohio,Furniture,Bookcases,277.67,0.2,5.75,2024-02,2024,0.0207
+387,2024-03-13,South,Florida,Office Supplies,Storage,217.88,0.2,11.77,2024-03,2024,0.054
+388,2024-05-30,West,Washington,Office Supplies,Paper,180.58,0.0,30.57,2024-05,2024,0.1693
+389,2024-11-09,West,Washington,Furniture,Tables,418.85,0.05,47.63,2024-11,2024,0.1137
+390,2024-11-14,East,Massachusetts,Furniture,Bookcases,78.13,0.2,4.0,2024-11,2024,0.0512
+391,2025-05-04,East,New York,Technology,Computers,79.46,0.05,13.37,2025-05,2025,0.1683
+392,2025-07-21,East,Pennsylvania,Office Supplies,Binders,147.43,0.1,32.28,2025-07,2025,0.219
+393,2024-09-08,East,Massachusetts,Furniture,Tables,232.23,0.1,11.26,2024-09,2024,0.0485
+394,2024-09-12,East,New York,Technology,Computers,116.4,0.0,6.17,2024-09,2024,0.053
+395,2024-04-30,South,Georgia,Office Supplies,Binders,124.2,0.0,18.42,2024-04,2024,0.1483
+396,2025-09-12,West,Arizona,Office Supplies,Storage,167.09,0.0,40.22,2025-09,2025,0.2407
+397,2024-10-03,West,Washington,Furniture,Chairs,161.08,0.2,6.08,2024-10,2024,0.0377
+398,2025-07-01,West,California,Office Supplies,Paper,78.9,0.0,25.79,2025-07,2025,0.3269
+399,2024-04-18,Central,Illinois,Office Supplies,Binders,78.12,0.1,11.44,2024-04,2024,0.1464
+400,2025-02-17,West,California,Office Supplies,Storage,511.08,0.1,65.06,2025-02,2025,0.1273
+401,2025-09-15,West,California,Office Supplies,Storage,200.51,0.0,50.05,2025-09,2025,0.2496
+402,2025-05-13,East,New York,Technology,Computers,123.4,0.0,17.08,2025-05,2025,0.1384
+403,2025-11-09,East,Massachusetts,Furniture,Tables,173.28,0.0,12.58,2025-11,2025,0.0726
+404,2025-04-25,Central,Texas,Furniture,Chairs,472.43,0.0,50.36,2025-04,2025,0.1066
+405,2024-04-02,East,New York,Furniture,Tables,101.45,0.0,10.83,2024-04,2024,0.1068
+406,2024-01-17,South,Florida,Technology,Computers,142.83,0.0,21.15,2024-01,2024,0.1481
+407,2025-07-27,South,Florida,Furniture,Chairs,641.87,0.1,32.83,2025-07,2025,0.0511
+408,2024-04-02,East,New York,Office Supplies,Paper,229.6,0.05,40.02,2024-04,2024,0.1743
+409,2025-10-20,South,Virginia,Furniture,Bookcases,116.53,0.2,2.99,2025-10,2025,0.0257
+410,2025-06-01,West,California,Technology,Computers,294.89,0.0,46.9,2025-06,2025,0.159
+411,2024-11-28,Central,Illinois,Technology,Computers,158.89,0.1,40.16,2024-11,2024,0.2528
+412,2024-07-24,South,Virginia,Technology,Computers,130.15,0.1,22.6,2024-07,2024,0.1736
+413,2025-02-17,East,Pennsylvania,Technology,Accessories,267.09,0.0,49.66,2025-02,2025,0.1859
+414,2024-05-15,Central,Texas,Technology,Phones,389.7,0.05,61.24,2024-05,2024,0.1571
+415,2024-07-29,West,Washington,Technology,Phones,384.04,0.0,90.07,2024-07,2024,0.2345
+416,2025-07-29,Central,Texas,Technology,Accessories,250.88,0.2,40.93,2025-07,2025,0.1631
+417,2025-06-11,Central,Texas,Office Supplies,Binders,129.67,0.0,15.28,2025-06,2025,0.1178
+418,2024-07-25,East,Massachusetts,Office Supplies,Storage,515.55,0.05,95.15,2024-07,2024,0.1846
+419,2025-01-18,East,New York,Office Supplies,Paper,425.43,0.2,66.16,2025-01,2025,0.1555
+420,2025-01-12,Central,Illinois,Furniture,Chairs,302.23,0.0,19.93,2025-01,2025,0.0659
+421,2024-12-05,South,Florida,Office Supplies,Storage,279.24,0.0,56.79,2024-12,2024,0.2034
+422,2025-02-08,South,Georgia,Technology,Phones,314.57,0.05,66.55,2025-02,2025,0.2116
+423,2025-03-30,South,Virginia,Furniture,Bookcases,143.15,0.0,19.47,2025-03,2025,0.136
+424,2024-03-31,West,Arizona,Office Supplies,Paper,230.48,0.0,44.01,2024-03,2024,0.1909
+425,2025-04-03,West,California,Furniture,Chairs,351.89,0.05,24.25,2025-04,2025,0.0689
+426,2025-04-06,South,Virginia,Technology,Accessories,215.03,0.0,51.18,2025-04,2025,0.238
+427,2024-05-04,East,Massachusetts,Furniture,Chairs,449.28,0.05,30.52,2024-05,2024,0.0679
+428,2025-11-25,South,Georgia,Office Supplies,Binders,407.17,0.1,38.9,2025-11,2025,0.0955
+429,2025-04-12,West,Arizona,Office Supplies,Binders,80.47,0.1,19.17,2025-04,2025,0.2382
+430,2024-12-08,South,Virginia,Technology,Phones,153.32,0.1,17.87,2024-12,2024,0.1166
+431,2025-10-16,Central,Texas,Furniture,Chairs,297.7,0.0,19.2,2025-10,2025,0.0645
+432,2024-04-21,East,Pennsylvania,Technology,Computers,550.54,0.0,105.17,2024-04,2024,0.191
+433,2024-04-03,East,Pennsylvania,Furniture,Tables,49.08,0.1,6.75,2024-04,2024,0.1375
+434,2024-05-29,East,Massachusetts,Office Supplies,Storage,323.96,0.0,59.63,2024-05,2024,0.1841
+435,2025-06-02,West,Arizona,Office Supplies,Storage,177.28,0.3,5.19,2025-06,2025,0.0293
+436,2024-06-27,West,Arizona,Office Supplies,Paper,399.83,0.2,46.29,2024-06,2024,0.1158
+437,2024-10-02,South,Georgia,Office Supplies,Binders,196.39,0.05,45.01,2024-10,2024,0.2292
+438,2025-06-06,East,Pennsylvania,Technology,Computers,101.99,0.05,19.88,2025-06,2025,0.1949
+439,2025-04-29,East,New York,Office Supplies,Storage,85.32,0.3,10.75,2025-04,2025,0.126
+440,2024-02-08,East,Pennsylvania,Technology,Computers,88.53,0.05,24.74,2024-02,2024,0.2795
+441,2025-02-27,Central,Ohio,Furniture,Tables,401.38,0.05,31.83,2025-02,2025,0.0793
+442,2024-04-15,South,Georgia,Furniture,Bookcases,323.17,0.05,22.34,2024-04,2024,0.0691
+443,2025-02-02,South,Florida,Office Supplies,Paper,96.34,0.0,18.73,2025-02,2025,0.1944
+444,2024-03-22,West,Arizona,Furniture,Bookcases,99.78,0.1,21.23,2024-03,2024,0.2128
+445,2025-03-14,Central,Illinois,Office Supplies,Binders,258.4,0.05,49.39,2025-03,2025,0.1911
+446,2025-08-11,Central,Ohio,Office Supplies,Binders,191.73,0.1,17.93,2025-08,2025,0.0935
+447,2025-04-30,West,Arizona,Furniture,Bookcases,268.35,0.2,9.91,2025-04,2025,0.0369
+448,2025-08-30,Central,Texas,Furniture,Tables,166.04,0.3,-9.67,2025-08,2025,-0.0582
+449,2025-11-29,West,California,Office Supplies,Storage,212.81,0.2,8.59,2025-11,2025,0.0404
+450,2025-12-25,South,Florida,Technology,Computers,292.99,0.0,66.83,2025-12,2025,0.2281
+451,2024-09-29,Central,Ohio,Technology,Phones,231.29,0.0,56.49,2024-09,2024,0.2442
+452,2025-05-11,South,Virginia,Furniture,Chairs,208.33,0.2,17.23,2025-05,2025,0.0827
+453,2025-08-30,Central,Texas,Office Supplies,Paper,261.11,0.2,44.91,2025-08,2025,0.172
+454,2025-04-11,Central,Ohio,Technology,Phones,160.08,0.3,22.48,2025-04,2025,0.1404
+455,2024-11-03,West,California,Technology,Phones,118.22,0.1,27.42,2024-11,2024,0.2319
+456,2024-07-08,East,Massachusetts,Office Supplies,Storage,299.68,0.0,66.39,2024-07,2024,0.2215
+457,2025-02-19,South,Georgia,Office Supplies,Paper,337.7,0.3,26.76,2025-02,2025,0.0792
+458,2024-07-10,East,New York,Technology,Phones,114.03,0.05,21.98,2024-07,2024,0.1928
+459,2024-04-13,Central,Texas,Office Supplies,Storage,176.29,0.1,27.28,2024-04,2024,0.1547
+460,2024-10-19,West,Washington,Office Supplies,Storage,225.94,0.05,40.98,2024-10,2024,0.1814
+461,2024-04-14,Central,Texas,Technology,Phones,115.53,0.05,7.91,2024-04,2024,0.0685
+462,2024-07-28,West,Washington,Technology,Phones,190.37,0.3,23.73,2024-07,2024,0.1247
+463,2024-05-16,West,California,Technology,Accessories,287.53,0.05,50.33,2024-05,2024,0.175
+464,2024-09-06,Central,Illinois,Office Supplies,Storage,217.93,0.0,45.03,2024-09,2024,0.2066
+465,2024-09-27,South,Virginia,Office Supplies,Paper,334.36,0.2,35.87,2024-09,2024,0.1073
+466,2024-05-11,South,Georgia,Furniture,Bookcases,338.97,0.0,25.05,2024-05,2024,0.0739
+467,2025-03-08,South,Florida,Technology,Phones,147.81,0.0,35.8,2025-03,2025,0.2422
+468,2024-10-28,South,Virginia,Office Supplies,Binders,341.62,0.05,70.09,2024-10,2024,0.2052
+469,2024-03-31,West,California,Technology,Accessories,480.26,0.05,103.73,2024-03,2024,0.216
+470,2024-07-21,West,Arizona,Technology,Accessories,175.63,0.1,33.24,2024-07,2024,0.1893
+471,2025-08-07,Central,Ohio,Furniture,Chairs,209.37,0.1,15.74,2025-08,2025,0.0752
+472,2025-08-24,West,Washington,Technology,Accessories,270.67,0.0,65.87,2025-08,2025,0.2434
+473,2025-11-28,East,New York,Technology,Accessories,54.45,0.0,5.1,2025-11,2025,0.0937
+474,2024-04-20,South,Virginia,Technology,Phones,97.34,0.2,16.37,2024-04,2024,0.1682
+475,2024-07-26,Central,Illinois,Technology,Accessories,341.87,0.0,71.06,2024-07,2024,0.2079
+476,2025-03-04,East,Pennsylvania,Furniture,Tables,144.72,0.2,8.76,2025-03,2025,0.0605
+477,2025-02-18,Central,Illinois,Furniture,Chairs,235.69,0.3,-2.67,2025-02,2025,-0.0113
+478,2024-01-05,South,Florida,Furniture,Tables,96.24,0.1,-0.32,2024-01,2024,-0.0033
+479,2025-01-18,Central,Ohio,Office Supplies,Paper,196.52,0.0,22.49,2025-01,2025,0.1144
+480,2024-05-01,Central,Ohio,Furniture,Bookcases,234.76,0.05,22.79,2024-05,2024,0.0971
+481,2024-05-07,East,Massachusetts,Technology,Phones,135.8,0.0,31.51,2024-05,2024,0.232
+482,2025-01-22,West,Washington,Office Supplies,Binders,89.62,0.1,10.66,2025-01,2025,0.1189
+483,2024-06-07,West,Washington,Furniture,Bookcases,213.36,0.05,23.14,2024-06,2024,0.1085
+484,2025-02-26,East,Pennsylvania,Furniture,Chairs,284.32,0.2,12.95,2025-02,2025,0.0455
+485,2025-09-11,West,Washington,Office Supplies,Binders,278.25,0.2,28.9,2025-09,2025,0.1039
+486,2024-07-30,West,Arizona,Technology,Computers,226.73,0.2,32.01,2024-07,2024,0.1412
+487,2025-03-27,Central,Ohio,Office Supplies,Storage,122.41,0.2,8.15,2025-03,2025,0.0666
+488,2025-05-29,East,Pennsylvania,Technology,Computers,39.77,0.0,-2.18,2025-05,2025,-0.0548
+489,2024-02-16,South,Virginia,Office Supplies,Paper,295.46,0.0,53.13,2024-02,2024,0.1798
+490,2025-05-08,Central,Texas,Office Supplies,Binders,113.55,0.1,14.67,2025-05,2025,0.1292
+491,2025-08-19,East,Pennsylvania,Technology,Accessories,151.62,0.3,13.38,2025-08,2025,0.0882
+492,2024-08-28,East,New York,Technology,Accessories,124.82,0.1,31.45,2024-08,2024,0.252
+493,2025-04-18,West,Arizona,Office Supplies,Binders,310.22,0.3,15.1,2025-04,2025,0.0487
+494,2025-07-08,South,Florida,Furniture,Chairs,132.88,0.2,9.23,2025-07,2025,0.0695
+495,2024-06-23,East,New York,Technology,Computers,270.63,0.1,43.87,2024-06,2024,0.1621
+496,2025-03-11,Central,Illinois,Technology,Accessories,216.5,0.2,22.99,2025-03,2025,0.1062
+497,2024-06-12,West,Washington,Office Supplies,Storage,103.08,0.2,9.39,2024-06,2024,0.0911
+498,2025-10-14,Central,Ohio,Technology,Computers,84.08,0.0,8.62,2025-10,2025,0.1025
+499,2024-11-30,South,Virginia,Furniture,Bookcases,249.14,0.05,28.34,2024-11,2024,0.1138
+500,2024-10-26,East,New York,Furniture,Tables,301.44,0.05,39.51,2024-10,2024,0.1311
+501,2024-05-09,West,Arizona,Furniture,Tables,408.52,0.1,35.4,2024-05,2024,0.0867
+502,2024-12-06,Central,Ohio,Furniture,Chairs,105.63,0.05,3.3,2024-12,2024,0.0312
+503,2024-06-19,East,Pennsylvania,Technology,Computers,101.96,0.1,16.11,2024-06,2024,0.158
+504,2025-01-08,West,California,Technology,Phones,220.23,0.0,40.55,2025-01,2025,0.1841
+505,2025-08-23,West,California,Technology,Computers,167.08,0.0,41.03,2025-08,2025,0.2456
+506,2024-02-29,East,Pennsylvania,Office Supplies,Storage,272.29,0.1,48.34,2024-02,2024,0.1775
+507,2024-10-11,South,Florida,Office Supplies,Binders,232.55,0.0,52.11,2024-10,2024,0.2241
+508,2025-10-19,East,Pennsylvania,Furniture,Chairs,217.84,0.0,19.17,2025-10,2025,0.088
+509,2024-07-24,West,Washington,Office Supplies,Binders,68.31,0.1,16.9,2024-07,2024,0.2474
+510,2024-05-02,South,Florida,Technology,Phones,116.37,0.0,22.6,2024-05,2024,0.1942
+511,2025-12-11,Central,Texas,Office Supplies,Paper,210.7,0.1,28.62,2025-12,2025,0.1358
+512,2025-09-07,Central,Ohio,Technology,Accessories,101.71,0.0,13.87,2025-09,2025,0.1364
+513,2024-07-08,Central,Illinois,Furniture,Tables,344.58,0.1,23.47,2024-07,2024,0.0681
+514,2025-08-29,Central,Ohio,Technology,Phones,386.66,0.0,72.35,2025-08,2025,0.1871
+515,2025-08-30,Central,Texas,Technology,Accessories,386.71,0.3,24.57,2025-08,2025,0.0635
+516,2025-03-12,South,Florida,Office Supplies,Binders,115.22,0.1,3.65,2025-03,2025,0.0317
+517,2024-07-06,West,California,Technology,Accessories,212.36,0.2,23.65,2024-07,2024,0.1114
+518,2024-04-11,South,Virginia,Office Supplies,Binders,201.15,0.2,20.76,2024-04,2024,0.1032
+519,2024-07-29,Central,Ohio,Office Supplies,Storage,219.8,0.05,23.69,2024-07,2024,0.1078
+520,2024-01-20,South,Virginia,Technology,Phones,320.45,0.1,63.01,2024-01,2024,0.1966
+521,2025-02-14,East,Pennsylvania,Technology,Computers,192.68,0.05,45.07,2025-02,2025,0.2339
+522,2024-08-19,Central,Ohio,Furniture,Chairs,95.6,0.0,10.65,2024-08,2024,0.1114
+523,2025-10-13,Central,Illinois,Office Supplies,Binders,274.6,0.05,42.68,2025-10,2025,0.1554
+524,2025-07-19,Central,Texas,Office Supplies,Binders,353.37,0.2,29.47,2025-07,2025,0.0834
+525,2024-08-02,East,New York,Furniture,Tables,127.75,0.05,18.88,2024-08,2024,0.1478
+526,2024-06-12,East,New York,Furniture,Chairs,103.87,0.3,-0.53,2024-06,2024,-0.0051
+527,2024-12-23,South,Georgia,Furniture,Chairs,416.59,0.1,18.14,2024-12,2024,0.0435
+528,2025-06-02,West,Arizona,Office Supplies,Binders,234.41,0.1,35.04,2025-06,2025,0.1495
+529,2025-11-03,West,Arizona,Furniture,Tables,160.3,0.2,-2.91,2025-11,2025,-0.0182
+530,2024-03-11,East,Massachusetts,Technology,Phones,316.98,0.05,66.23,2024-03,2024,0.2089
+531,2024-10-09,West,Arizona,Furniture,Bookcases,96.4,0.2,5.19,2024-10,2024,0.0538
+532,2024-09-16,South,Florida,Office Supplies,Storage,245.53,0.1,54.49,2024-09,2024,0.2219
+533,2024-07-21,West,Arizona,Technology,Computers,78.59,0.1,6.45,2024-07,2024,0.0821
+534,2025-01-24,East,New York,Office Supplies,Binders,238.85,0.3,-2.34,2025-01,2025,-0.0098
+535,2025-06-07,East,Massachusetts,Furniture,Chairs,132.95,0.05,17.72,2025-06,2025,0.1333
+536,2024-09-15,Central,Ohio,Technology,Computers,170.17,0.3,8.73,2024-09,2024,0.0513
+537,2025-12-22,South,Virginia,Office Supplies,Storage,191.12,0.0,20.52,2025-12,2025,0.1074
+538,2024-07-03,East,New York,Furniture,Bookcases,176.81,0.0,18.65,2024-07,2024,0.1055
+539,2025-02-19,Central,Ohio,Technology,Computers,246.89,0.2,41.54,2025-02,2025,0.1683
+540,2024-05-02,South,Georgia,Furniture,Bookcases,150.35,0.05,9.09,2024-05,2024,0.0605
+541,2024-12-14,West,California,Furniture,Chairs,154.81,0.1,23.63,2024-12,2024,0.1526
+542,2024-11-22,West,California,Technology,Phones,477.78,0.0,106.51,2024-11,2024,0.2229
+543,2024-07-26,West,California,Technology,Accessories,81.64,0.05,3.43,2024-07,2024,0.042
+544,2025-03-02,South,Virginia,Office Supplies,Storage,201.34,0.3,13.0,2025-03,2025,0.0646
+545,2024-02-25,West,California,Technology,Accessories,140.38,0.1,23.08,2024-02,2024,0.1644
+546,2024-11-18,West,Washington,Technology,Computers,181.61,0.1,23.31,2024-11,2024,0.1284
+547,2025-01-04,East,Massachusetts,Office Supplies,Binders,184.4,0.2,36.37,2025-01,2025,0.1972
+548,2024-11-04,South,Florida,Office Supplies,Storage,103.01,0.3,7.11,2024-11,2024,0.069
+549,2025-10-24,South,Virginia,Office Supplies,Binders,449.99,0.0,76.16,2025-10,2025,0.1692
+550,2025-11-22,Central,Ohio,Office Supplies,Storage,291.58,0.0,46.12,2025-11,2025,0.1582
+551,2025-09-29,West,California,Furniture,Chairs,237.4,0.3,2.0,2025-09,2025,0.0084
+552,2024-08-01,East,Massachusetts,Technology,Accessories,114.43,0.3,24.1,2024-08,2024,0.2106
+553,2025-08-11,South,Virginia,Furniture,Tables,91.52,0.1,5.12,2025-08,2025,0.0559
+554,2024-03-28,South,Virginia,Furniture,Tables,87.27,0.0,18.36,2024-03,2024,0.2104
+555,2024-04-18,East,New York,Technology,Phones,130.17,0.0,19.85,2024-04,2024,0.1525
+556,2025-09-20,South,Florida,Technology,Computers,192.52,0.1,31.17,2025-09,2025,0.1619
+557,2025-07-03,East,Massachusetts,Office Supplies,Paper,104.17,0.05,11.56,2025-07,2025,0.111
+558,2024-12-09,East,New York,Office Supplies,Paper,200.6,0.2,23.9,2024-12,2024,0.1191
+559,2025-12-23,West,California,Furniture,Bookcases,329.2,0.05,20.54,2025-12,2025,0.0624
+560,2025-02-05,East,New York,Technology,Accessories,91.38,0.1,4.46,2025-02,2025,0.0488
+561,2024-01-10,West,California,Technology,Accessories,470.76,0.0,97.82,2024-01,2024,0.2078
+562,2024-06-16,South,Georgia,Technology,Accessories,69.73,0.2,28.89,2024-06,2024,0.4143
+563,2025-09-12,South,Florida,Office Supplies,Paper,73.95,0.05,14.71,2025-09,2025,0.1989
+564,2024-10-24,South,Florida,Technology,Phones,165.29,0.1,21.52,2024-10,2024,0.1302
+565,2025-07-25,West,Washington,Furniture,Tables,282.05,0.3,3.07,2025-07,2025,0.0109
+566,2024-03-29,East,Pennsylvania,Office Supplies,Storage,209.01,0.05,33.36,2024-03,2024,0.1596
+567,2024-04-08,South,Virginia,Furniture,Tables,245.15,0.1,9.26,2024-04,2024,0.0378
+568,2024-11-13,West,Arizona,Technology,Accessories,282.74,0.3,43.25,2024-11,2024,0.153
+569,2025-04-11,South,Virginia,Office Supplies,Paper,124.71,0.05,16.29,2025-04,2025,0.1306
+570,2025-08-14,East,Massachusetts,Technology,Computers,169.67,0.2,31.71,2025-08,2025,0.1869
+571,2025-06-01,East,New York,Office Supplies,Paper,146.48,0.3,1.91,2025-06,2025,0.013
+572,2025-01-17,East,Pennsylvania,Furniture,Tables,354.38,0.05,32.22,2025-01,2025,0.0909
+573,2025-07-19,South,Florida,Office Supplies,Paper,223.65,0.2,31.14,2025-07,2025,0.1392
+574,2024-07-18,Central,Ohio,Office Supplies,Storage,146.91,0.05,23.36,2024-07,2024,0.159
+575,2024-06-20,South,Virginia,Office Supplies,Binders,196.18,0.2,30.35,2024-06,2024,0.1547
+576,2025-01-17,West,Washington,Furniture,Bookcases,387.67,0.2,10.43,2025-01,2025,0.0269
+577,2025-02-18,South,Georgia,Office Supplies,Paper,269.3,0.05,46.27,2025-02,2025,0.1718
+578,2025-08-04,East,Pennsylvania,Technology,Accessories,101.62,0.2,21.32,2025-08,2025,0.2098
+579,2025-05-02,South,Florida,Office Supplies,Binders,99.85,0.0,18.16,2025-05,2025,0.1819
+580,2024-12-14,East,New York,Furniture,Tables,161.78,0.05,13.47,2024-12,2024,0.0833
+581,2024-11-05,Central,Illinois,Technology,Accessories,325.04,0.1,60.84,2024-11,2024,0.1872
+582,2025-04-29,Central,Texas,Office Supplies,Storage,331.98,0.1,38.54,2025-04,2025,0.1161
+583,2025-04-26,South,Virginia,Office Supplies,Paper,40.4,0.05,2.78,2025-04,2025,0.0688
+584,2025-12-09,Central,Texas,Furniture,Chairs,271.1,0.0,32.67,2025-12,2025,0.1205
+585,2025-02-25,East,New York,Office Supplies,Paper,710.09,0.2,70.72,2025-02,2025,0.0996
+586,2024-03-22,West,Arizona,Technology,Phones,283.23,0.2,34.68,2024-03,2024,0.1224
+587,2025-04-08,West,Washington,Office Supplies,Binders,284.34,0.2,37.58,2025-04,2025,0.1322
+588,2024-06-19,East,Pennsylvania,Technology,Phones,76.8,0.1,16.43,2024-06,2024,0.2139
+589,2025-04-14,East,New York,Furniture,Tables,185.98,0.2,13.78,2025-04,2025,0.0741
+590,2025-03-06,Central,Ohio,Furniture,Chairs,159.7,0.0,11.77,2025-03,2025,0.0737
+591,2024-08-28,East,New York,Office Supplies,Binders,322.24,0.1,44.37,2024-08,2024,0.1377
+592,2024-10-12,South,Georgia,Technology,Computers,84.4,0.3,14.61,2024-10,2024,0.1731
+593,2024-04-21,East,Massachusetts,Office Supplies,Binders,287.07,0.3,30.54,2024-04,2024,0.1064
+594,2025-07-21,East,Massachusetts,Office Supplies,Storage,89.66,0.05,28.25,2025-07,2025,0.3151
+595,2024-03-05,Central,Ohio,Furniture,Tables,171.03,0.1,11.55,2024-03,2024,0.0675
+596,2025-08-12,East,New York,Furniture,Tables,215.42,0.1,6.53,2025-08,2025,0.0303
+597,2024-12-05,Central,Texas,Office Supplies,Binders,262.01,0.0,57.68,2024-12,2024,0.2201
+598,2025-02-13,Central,Ohio,Technology,Accessories,145.56,0.05,35.85,2025-02,2025,0.2463
+599,2025-07-20,Central,Illinois,Office Supplies,Binders,240.71,0.1,31.45,2025-07,2025,0.1307
+600,2025-02-16,East,Massachusetts,Office Supplies,Storage,572.79,0.3,52.41,2025-02,2025,0.0915
